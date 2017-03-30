@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="info">Welcome to global knowledge quiz.</string>
+    <string name="question_nr_label">How many questions do you want to answer?</string>
+    <string name="question_nr">00</string>
+    <string name="question_label">Question label</string>
+    <string name="timer">00</string>
+    <string name="group_one">Nature</string>
+    <string name="start_button">Start</string>
+    <string name="answer1">Answer 1</string>
+    <string name="answer2">Answer 2</string>
+    <string name="answer3">Answer 3</string>
+    <string name="answer4">Answer 4</string>
+    <string name="question">Question goes here</string>
+    <string name="summary">Number of correct answers:</string>
+    <string name="score">00</string>
+    <string name="score_name">Perfect</string>
+    <string name="summary_button">take quiz again</string>
+    <string name="hint">Type your answer here</string>
+    <string name="button_text">OK</string>
+</resources>

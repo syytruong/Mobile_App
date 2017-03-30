@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ch_topic_height">100dp</dimen>
+    <dimen name="question_nr_size">40sp</dimen>
+    <dimen name="question_choose_size">90sp</dimen>
+    <dimen name="question_text_size">20sp</dimen>
+    <dimen name="labels_text_size">20sp</dimen>
+    <dimen name="summary_score">60sp</dimen>
+    <dimen name="summary_button_height">200dp</dimen>
+    <dimen name="summary_text_size">20sp</dimen>
+    <dimen name="main_text">30sp</dimen>
+    <dimen name="clock_text_size">55sp</dimen>
+    <dimen name="small_buttons">100dp</dimen>
+    <dimen name="button_custom_margin_top_bottom">30dp</dimen>
+    <dimen name="button_custom_margin_sides">6dp</dimen>
+
+
+</resources>
